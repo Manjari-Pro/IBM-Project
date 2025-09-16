@@ -14,3 +14,7 @@ screenshot:
 ![WhatsApp Image 2025-09-07 at 23 17 49_a207bdc7](https://github.com/user-attachments/assets/21042337-d425-40f5-bf94-bf1d91528c79)
 google colab link:
 https://colab.research.google.com/drive/1oh3gSUSx5BQzQuR8O3t7si-vDjSdPIu_?usp=sharing
+demo link:
+https://drive.google.com/file/d/16D0uV3YbKuzmlg8FqnUw9oOT0NvtofRJ/view?usp=drivesdk
+project documentation
+https://drive.google.com/file/d/1RA0DvfrrAJMAxYWn3gmgmLxyrQPShcZ6/view?usp=drivesdk
